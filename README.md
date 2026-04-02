@@ -1,4 +1,4 @@
-# linux-journey
+# cyber-journey
 
 🐧 Linux Journey: Week 1 Complete
 Status: Phase 1 Finished | Focus: Command Line Basics & OverTheWire: Bandit
