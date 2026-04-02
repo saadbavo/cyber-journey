@@ -93,16 +93,6 @@ I started using Cisco Packet Tracer, explored the OSI model, and practiced Linux
 
 ---
 
-## 📸 Project Preview
-
-> 📌 Small Network Lab (2 PCs + Switch ......)
-
-```md
-<img width="670" height="457" alt="Capture d&#39;écran 2026-04-03 004505" src="https://github.com/user-attachments/assets/1a009fe9-44c9-4e2f-928f-2cad809f62a7" />
-
-```
-
----
 
 ## 📈 Next Goals
 
